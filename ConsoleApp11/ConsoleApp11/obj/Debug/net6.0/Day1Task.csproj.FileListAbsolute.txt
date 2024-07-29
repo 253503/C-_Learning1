@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\Day1Task.exe
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\Day1Task.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\Day1Task.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\Day1Task.dll
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\Day1Task.pdb
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.dll
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\Day1Task.dll
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.pdb
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\Day1Task.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\Day1Task.dll
