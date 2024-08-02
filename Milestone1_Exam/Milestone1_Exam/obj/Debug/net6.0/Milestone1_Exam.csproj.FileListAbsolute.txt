@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\bin\Debug\net6.0\Milestone1_Exam.exe
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\bin\Debug\net6.0\Milestone1_Exam.deps.json
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\bin\Debug\net6.0\Milestone1_Exam.runtimeconfig.json
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\bin\Debug\net6.0\Milestone1_Exam.dll
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\bin\Debug\net6.0\Milestone1_Exam.pdb
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.dll
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\refint\Milestone1_Exam.dll
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.pdb
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\Milestone1_Exam.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Milestone1_Exam\Milestone1_Exam\obj\Debug\net6.0\ref\Milestone1_Exam.dll
