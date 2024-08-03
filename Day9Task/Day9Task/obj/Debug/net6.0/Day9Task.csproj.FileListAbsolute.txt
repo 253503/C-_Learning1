@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\bin\Debug\net6.0\Day9Task.exe
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\bin\Debug\net6.0\Day9Task.deps.json
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\bin\Debug\net6.0\Day9Task.runtimeconfig.json
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\bin\Debug\net6.0\Day9Task.dll
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\bin\Debug\net6.0\Day9Task.pdb
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.dll
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\refint\Day9Task.dll
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.pdb
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\Day9Task.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Day9Task\Day9Task\obj\Debug\net6.0\ref\Day9Task.dll
